@@ -1,0 +1,16 @@
+.container1{
+    background-color:  rgba(192, 192, 192, 0.61);
+    width: 60%;
+    height: 30%;
+    margin:auto;
+    margin-top:2rem;
+    padding:5%;
+    margin-bottom: 5rem;
+}
+.buttom{
+    bottom: 0;
+    left: 0;
+}
+.name{
+    margin-bottom: 1rem;
+}
